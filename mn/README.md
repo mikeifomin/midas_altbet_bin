@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/altbet/mn-install/master/mn-install.sh
